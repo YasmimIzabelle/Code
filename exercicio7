@@ -1,0 +1,4 @@
+n = int(input('Qual a nota do aluno:'))
+n2 = int(input('Qual a outra nota do aluno:'))
+média = (n + n2) / 2
+print('A média do aluno foi:{}'.format(média))
