@@ -1,4 +1,4 @@
-# Jpgo simples de adivinhação de números
+# Jogo simples de adivinhação de números
 
 from random import randint
 computador = randint(0, 5)
